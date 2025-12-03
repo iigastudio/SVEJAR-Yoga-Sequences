@@ -1,2 +1,2 @@
-![](https://github.com/user-attachments/assets/66760e89-3f70-46c8-adda-34b57695e497)
+![](https://github.com/user-attachments/assets/67451244-908c-4fdb-9da5-63dad07fac2c)
 The SVEJAR Yoga Sequences App offers a comprehensive collection of over 1000+ asanas and 30 built-in sequences all beautifully hand-drawn by [Svenja](https://svejar.com/). With SVEJAR, you can build, edit, share, and practice complete yoga sequences tailored to your level, whether you are a beginner or an advanced practitioner. Each asana is accompanied by its Sanskrit name. Available on the [App Store](https://apps.apple.com/us/app/svejar/id6466824326?platform=iphone) and [Google Play Store](https://play.google.com/store/apps/details?id=com.iiga.studio.SVEJAR&hl=en-US).
